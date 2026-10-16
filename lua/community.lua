@@ -6,10 +6,10 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.pack.cs" },
+  { --import = "astrocommunity.pack.cs" },
   { import = "astrocommunity.pack.python" },
-  { import = "astrocommunity.pack.html-css" },
+  { --import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.bash" },
-  { import = "astrocommunity.pack.typescript" },
+  { --import = "astrocommunity.pack.typescript" },
   -- import/override with your plugins folder
 }
